@@ -5,7 +5,7 @@ spotipy
 aiohttp
 aiofiles
 tgcrypto
-py-tgcalls
+py-tgcalls==v2.0.3b2
 python-dotenv
 youtube-search-python
 https://github.com/PyrogramMod/PyrogramMod/archive/refs/heads/main.zip
